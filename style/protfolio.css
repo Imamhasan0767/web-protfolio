@@ -1,0 +1,11 @@
+/* shared style */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.textprimary{
+    color: FD6E0A;
+}
+/* nav related styles */
+nav{
+    display: flex;
+}
